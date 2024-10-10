@@ -9,8 +9,6 @@ namespace GZ.RuleEngine
 
     public class RuleWorkflow
     {
-
-
         /// <summary>
         /// ID
         /// </summary>
